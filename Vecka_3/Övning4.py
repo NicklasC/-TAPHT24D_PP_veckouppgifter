@@ -42,3 +42,4 @@ for y in range(1, 7):
         else:
             s += "."
     print(s)
+# e osv ger jag mig inte på, det finns inte tid för det.
