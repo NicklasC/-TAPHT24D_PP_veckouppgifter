@@ -1,5 +1,6 @@
 import random
-from typing import List, Dict
+#from typing import List, Dict
+from typing import *
 
 
 def initiate_deck() -> List[Dict[str, str]]:
